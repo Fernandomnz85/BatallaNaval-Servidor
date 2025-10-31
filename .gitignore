@@ -1,0 +1,6 @@
+# Básico de .NET
+[Bb]in/
+[Oo]bj/
+
+# Archivos de VS Code
+.vscode/
